@@ -19,3 +19,11 @@ Capstone Project Information for 2017-2018 GWC
 
 ### February 19, 2018
 - Start cleaning data programatically 
+  1. Add your code to skeleton_clean.py, save as <names>_clean.py and save in your Dropbox folder
+  ```
+  python3 skeleton_clean.py file.csv
+  ```
+  2. Add your code to skleleton_clean.ipynb, save as <names>_clean.ipynb and save in your Dropbox folder
+   ```
+  jupyter notebook skeleton_clean.ipynb
+  ```
