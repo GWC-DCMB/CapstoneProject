@@ -6,6 +6,12 @@ Capstone Project Information for 2017-2018 GWC
 - Directions for using jupyter notebook  
 - Directions for using vim and command line  
 
+## Other Resources
+- Example project 
+  1. [Jupyter notebook](20171202-gwc_exampleProject_movieLikes.ipynb)
+  2. [Presentation](project_example.pdf)
+- [Instructions](Capstone_Project_Instructions.pdf) for coming up with a project
+
 ## Weekly Goals
 
 ### February 5, 2018
