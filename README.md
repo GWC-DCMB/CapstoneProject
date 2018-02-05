@@ -21,14 +21,14 @@ Capstone Project Information for 2017-2018 GWC
 - Log your progress in the Project Progress Log at the end of class  
 
 ### February 12, 2018
-- Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project
-- Make a plan for what steps you need to take to answer the question
-  Example: Do women tweet more about Trump than men?
-  Step 1: Identify tweets about Trump
-  Step 2: Identify gender of the account
-  Step 3: Count how many tweets about Trump belong to women, men, or unknown
-  Step 4: Bar graph with y axis=number of tweets (discrete variable) and x axis=men vs women (categorical variable)
-- Sketch out potential plots including x and y axes
+- Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project  
+- Make a plan for what steps you need to take to answer the question  
+  Example: Do women tweet more about Trump than men?  
+  Step 1: Identify tweets about Trump  
+  Step 2: Identify gender of the account  
+  Step 3: Count how many tweets about Trump belong to women, men, or unknown  
+  Step 4: Bar graph with y axis=number of tweets (discrete variable) and x axis=men vs women (categorical variable)  
+- Sketch out potential plots including x and y axes  
 
 ### February 19, 2018
 - Start cleaning data programatically 
