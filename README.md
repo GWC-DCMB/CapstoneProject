@@ -6,14 +6,16 @@ Capstone Project Information for 2017-2018 GWC
 - Directions for using jupyter notebook  
 - Directions for using vim and command line  
 
-## February 5, 2018
-- Create [Dropbox](https://www.dropbox.com) folder and share with all group members, your point person, and gwc.bioinfo-requests@umich.edu (this is DCMB GWC Dropbox)
-- Download your data set and any related files into Dropbox folder 
-- Start familiarizing yourself with your data
-- Log your progress in the Project Progress Log at the end of class
+## Weekly Goals
 
-## February 12, 2018
+### February 5, 2018
+- Create [Dropbox](https://www.dropbox.com) folder and share with all group members, your point person, and gwc.bioinfo-requests@umich.edu (this is DCMB GWC Dropbox)  
+- Download your data set and any related files into Dropbox folder   
+- Start familiarizing yourself with your data  
+- Log your progress in the Project Progress Log at the end of class  
+
+### February 12, 2018
 - Refine the question or hypothesis you want to explore in your project
 
-## February 19, 2018
+### February 19, 2018
 - Start cleaning data programatically 
