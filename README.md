@@ -15,7 +15,7 @@ Capstone Project Information for 2017-2018 GWC
 - Log your progress in the Project Progress Log at the end of class  
 
 ### February 12, 2018
-- Refine the question or hypothesis you want to explore in your project
+- Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project
 
 ### February 19, 2018
 - Start cleaning data programatically 
