@@ -1,7 +1,8 @@
 ## How-Tos  
-- Please check your project channel on [Slack](https://dcmbgirlswhocode.slack.com/messages) for updates and the Project Progress Log google sheet  
+
 - Directions for using jupyter notebook 
-  1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+  1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook  
+  
 - Directions for using command line
   1. http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
   2. https://programminghistorian.org/lessons/intro-to-bash
@@ -22,6 +23,7 @@
   ```
  
 - Directions for using vim
+
 - Directions for using emacs
 
 ## Other Resources
