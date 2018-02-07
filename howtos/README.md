@@ -59,7 +59,7 @@ jupyter notebook file.ipynb
   2. http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
   
 - Directions for using github
-  1. Sign up for GitHub
+  1. Sign up for [GitHub](www.github.com/join)
   2. https://guides.github.com/activities/hello-world
 
 ## Other Resources
