@@ -2,7 +2,7 @@
 
 ### How to organize your project  
 
-  -If you're using Dropbox: You may choose to create .py scripts or .ipynb files to save your code. Save these files in the same folder as your data set. Download your Dropbox folder. Open the Terminal. Change directory into this folder. Start working!
+  -If you're using Dropbox: You may choose to create .py scripts or .ipynb files to save your code. Save these files in the same folder as your data set. Download your Dropbox folder. Open the Terminal. Change directory into this folder. Start working! Python is alraedy set up on the classroom machines.
 
  ```
 cd /directory/with/files
@@ -11,7 +11,11 @@ python script.py <arguments>
 jupyter notebook file.ipynb
  ```
   
-  -If you're using GitHub:
+  -If you're using GitHub: Open terminal, Git is already set up on the classroom machines.
+  
+  ```
+  git clone https://github.com/YOUR-USERNAME/CapstoneProject
+  ```
 
 ### Directions 
 
@@ -57,7 +61,6 @@ jupyter notebook file.ipynb
 - Directions for using github
   1. Sign up for GitHub
   2. https://guides.github.com/activities/hello-world
-  3. Fork this repo 
 
 ## Other Resources
 - Example project 
