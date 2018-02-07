@@ -3,15 +3,13 @@
 - How to organize your project
   -If you're using Dropbox: You may choose to create .py scripts or .ipynb files to save your code. Save these files in the same folder as your data set. Download your Dropbox folder. Open the Terminal. Change directory into this folder. Start working!
 
-  -If you're using GitHub:
-
-
-```
+  ```
 cd /directory/with/files
 python script.py <arguments>
 
 jupyter notebook file.ipynb
-```
+  ```
+  -If you're using GitHub:
 
 - Directions for using jupyter notebook 
   1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook  
