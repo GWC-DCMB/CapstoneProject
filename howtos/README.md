@@ -23,12 +23,12 @@
   ```
  
 - Directions for using vim
-1. https://www.linux.com/learn/vim-101-beginners-guide-vim
-2. https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
+  1. https://www.linux.com/learn/vim-101-beginners-guide-vim
+  2. https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
 
 - Directions for using emacs
-1. http://mally.stanford.edu/~sr/computing/emacs.html
-2. http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
+  1. http://mally.stanford.edu/~sr/computing/emacs.html
+  2. http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
 
 ## Other Resources
 - Example project 
