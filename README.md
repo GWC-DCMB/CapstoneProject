@@ -5,13 +5,13 @@ Capstone Project Information for 2017-2018 GWC
 
 ## Weekly Goals
 
-### February 5, 2018
+### February 6, 2018
 - Create [Dropbox](https://www.dropbox.com) folder and share with all group members, your point person, and gwc.bioinfo-requests@umich.edu (this is DCMB GWC Dropbox)  
 - Download your data set and any related files into Dropbox folder   
 - Start familiarizing yourself with your data  
 - Log your progress in the Project Progress Log at the end of class  
 
-### February 12, 2018
+### February 13, 2018
 - Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project  
 - Make a plan for what steps you need to take to answer the question  
 - Sketch out potential plots including x and y axes  
@@ -22,7 +22,7 @@ Capstone Project Information for 2017-2018 GWC
   Step 4: Bar graph with y axis=number of tweets (discrete variable) and x axis=men vs women (categorical variable)  
 
 
-### February 19, 2018
+### February 20, 2018
 - Start cleaning data programatically 
   1. Add your code to skeleton_clean.py, save as yournames_clean.py and save in your Dropbox folder
   ```
@@ -34,3 +34,9 @@ Capstone Project Information for 2017-2018 GWC
   #Open terminal
   jupyter notebook skeleton_clean.ipynb
   ```
+  
+  ### March 6, 2018
+  - Continue cleaning your data programmatically
+  
+  ### March 13, 2018
+  - Begin analysis of your data
