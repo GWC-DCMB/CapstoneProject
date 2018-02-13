@@ -35,8 +35,8 @@ Capstone Project Information for 2017-2018 GWC
   jupyter notebook skeleton_clean.ipynb
   ```
   
-  ### March 6, 2018
-  - Continue cleaning your data programmatically
+### March 6, 2018
+- Continue cleaning your data programmatically
   
-  ### March 13, 2018
-  - Begin analysis of your data
+### March 13, 2018
+- Begin analysis of your data
