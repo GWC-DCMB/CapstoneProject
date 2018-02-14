@@ -61,6 +61,10 @@ jupyter notebook file.ipynb
 - Directions for using github
   1. Sign up for [GitHub](www.github.com/join)
   2. https://guides.github.com/activities/hello-world
+  
+- Python syntax cheat sheets
+  1. https://github.com/justmarkham/python-reference
+  2. http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html
 
 ## Other Resources
 - Example project 
