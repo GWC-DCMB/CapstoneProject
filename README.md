@@ -34,6 +34,7 @@ Capstone Project Information for 2017-2018 GWC
   #Open terminal
   jupyter notebook skeleton_clean.ipynb
   ```
+- You should be using pandas, check out [documentation](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
   
 ### March 6, 2018
 - Continue cleaning your data programmatically
