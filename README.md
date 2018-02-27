@@ -35,7 +35,8 @@ Capstone Project Information for 2017-2018 GWC
   jupyter notebook skeleton_clean.ipynb
   ```
 - You should be using pandas, check out [documentation](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
-  
+- You should also be using numpy, check out these [exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) for more practice
+
 ### March 6, 2018
 - Continue cleaning your data programmatically
   
