@@ -41,4 +41,5 @@ Capstone Project Information for 2017-2018 GWC
 - Continue cleaning your data programmatically
   
 ### March 13, 2018
-- Begin analysis of your data
+- Continue cleaning your data programmatically. 
+What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
