@@ -71,3 +71,7 @@ jupyter notebook file.ipynb
   1. [Jupyter notebook](../20171202-gwc_exampleProject_movieLikes.ipynb)
   2. [Presentation](../project_example.pdf)
 - [Instructions](../Capstone_Project_Instructions.pdf) for coming up with a project
+- What are classes?
+  1. https://docs.python.org/3/tutorial/classes.html
+  2. http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/
+  3. http://python-textbok.readthedocs.io/en/1.0/Classes.html
