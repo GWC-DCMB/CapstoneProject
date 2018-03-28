@@ -43,3 +43,27 @@ Capstone Project Information for 2017-2018 GWC
 ### March 13, 2018
 - Continue cleaning your data programmatically. 
 What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
+
+## March 20, 2018
+- Start visualizing your data using matplotlib
+	
+## April 3	
+- Start visualizing your data using matplotlib
+	
+## April 10
+	
+## April 17
+	
+## April 24
+	
+## May 1	
+- Make presentation including Background, Methods, Hypothesis, Results
+	
+## May 8
+- Make presentation including Background, Methods, Hypothesis, Results
+	
+## May 15
+- Practice presentation
+
+## May 22
+- Present at graduation! Congratulations!
