@@ -46,12 +46,13 @@ What variables do you need? What outliers should you remove? What variable has t
 
 ## March 20, 2018
 - Start visualizing your data using matplotlib
-	
+
 ## April 3	
 - Start visualizing your data using matplotlib
 	
 ## April 10
-	
+- To help with data frame manipulation in pandas check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
+
 ## April 17
 	
 ## April 24
