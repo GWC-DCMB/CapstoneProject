@@ -62,7 +62,9 @@ What variables do you need? What outliers should you remove? What variable has t
 ## May 1	
 - Make presentation including Background, Methods, Hypothesis, Results
 - [Template Presentation](GWC_presentation_template.pptx)
+- [Template Presentation via Google Slides](https://docs.google.com/presentation/d/18edFFZwETAB0TBxWg5-FhOL_oaJyFv0c-HON1H1jRgk/edit?usp=sharing)
 - Review the [example presentation](project_example.pdf) by Rucheng Diao 
+
 	
 ## May 8
 - Make presentation including Background, Methods, Hypothesis, Results
