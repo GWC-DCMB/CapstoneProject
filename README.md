@@ -39,6 +39,7 @@ Capstone Project Information for 2017-2018 GWC
 
 ### March 6, 2018
 - Continue cleaning your data programmatically
+- Remember our example project [Jupyter Notebook](20171202-gwc_exampleProject_movieLikes.ipynb)
   
 ### March 13, 2018
 - Continue cleaning your data programmatically. 
@@ -61,6 +62,7 @@ What variables do you need? What outliers should you remove? What variable has t
 ## May 1	
 - Make presentation including Background, Methods, Hypothesis, Results
 - [Template Presentation](GWC_presentation_template.pptx)
+- Review the [example presentation](project_example.pdf) by Rucheng Diao 
 	
 ## May 8
 - Make presentation including Background, Methods, Hypothesis, Results
