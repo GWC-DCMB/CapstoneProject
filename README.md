@@ -54,11 +54,13 @@ What variables do you need? What outliers should you remove? What variable has t
 - To help with data frame manipulation in pandas check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
 
 ## April 17
+- Continue making visualizations of your data
 	
 ## April 24
 	
 ## May 1	
 - Make presentation including Background, Methods, Hypothesis, Results
+- [Template Presentation](GWC_presentation_template.pptx)
 	
 ## May 8
 - Make presentation including Background, Methods, Hypothesis, Results
