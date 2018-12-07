@@ -1,17 +1,18 @@
 # CapstoneProject
-Capstone Project Information for 2017-2018 GWC
+Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 
 - Please check your project channel on [Slack](https://dcmbgirlswhocode.slack.com/messages) for updates and the Project Progress Log google sheet
 
-## Weekly Goals
+## Data Analysis Step by Step
 
-### February 6, 2018
-- Create [Dropbox](https://www.dropbox.com) folder and share with all group members, your point person, and gwc.bioinfo-requests@umich.edu (this is DCMB GWC Dropbox)  
-- Download your data set and any related files into Dropbox folder   
-- Start familiarizing yourself with your data  
-- Log your progress in the Project Progress Log at the end of class  
+### Get organized!
+- One partner should make a Google Drive folder and share it with group mentor, partner, and bwolford@umich.edu
+- At the end of each meeting the latest .ipynb should be uploaded to your Google Drive. Change the name to be \_v1, \_v2, etc.
+- Each person should download the original data set to a project directory on your virtual machine
+- Start familiarizing yourself with your data. What are the data types in each column of the data set (e.g. float, string)?
+- Log your progress in your Project Progress Log at the end of class  
 
-### February 13, 2018
+### Hypothesis generation
 - Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project  
 - Make a plan for what steps you need to take to answer the question  
 - Sketch out potential plots including x and y axes  
@@ -21,56 +22,20 @@ Capstone Project Information for 2017-2018 GWC
   Step 3: Count how many tweets about Trump belong to women, men, or unknown  
   Step 4: Bar graph with y axis=number of tweets (discrete variable) and x axis=men vs women (categorical variable)  
 
-
-### February 20, 2018
-- Start cleaning data programatically 
-  1. Add your code to skeleton_clean.py, save as yournames_clean.py and save in your Dropbox folder
-  ```
-  #Open terminal
-  python3 skeleton_clean.py file.csv
-  ```
-  2. Add your code to skleleton_clean.ipynb, save as yournames_clean.ipynb and save in your Dropbox folder
-   ```
-  #Open terminal
-  jupyter notebook skeleton_clean.ipynb
-  ```
+### Data cleaning
+- Start cleaning data programatically. Add commands to your .ipynb.
 - You should be using pandas, check out [documentation](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+- To help with data frame manipulation in pandas check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
 - You should also be using numpy, check out these [exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) for more practice
-
-### March 6, 2018
-- Continue cleaning your data programmatically
+- What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
 - Remember our example project [Jupyter Notebook](20171202-gwc_exampleProject_movieLikes.ipynb)
   
-### March 13, 2018
-- Continue cleaning your data programmatically. 
-What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
+### Data visualization
+- Start visualizing your data using [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
 
-## March 20, 2018
-- Start visualizing your data using matplotlib
-
-## April 3	
-- Start visualizing your data using matplotlib
-	
-## April 10
-- To help with data frame manipulation in pandas check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
-
-## April 17
-- Continue making visualizations of your data
-	
-## April 24
-	
-## May 1	
+### Science communication!	
 - Make presentation including Background, Methods, Hypothesis, Results
 - [Template Presentation](GWC_presentation_template.pptx)
 - [Template Presentation via Google Slides](https://docs.google.com/presentation/d/18edFFZwETAB0TBxWg5-FhOL_oaJyFv0c-HON1H1jRgk/edit?usp=sharing)
 - Review the [example presentation](project_example.pdf) by Rucheng Diao 
-
-	
-## May 8
-- Make presentation including Background, Methods, Hypothesis, Results
-	
-## May 15
-- Practice presentation
-
-## May 22
-- Present at graduation! Congratulations!
+- Practice your presentation
