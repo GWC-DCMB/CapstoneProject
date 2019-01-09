@@ -1,5 +1,5 @@
 
-# Potential data sets for 2018-2019 Capstone Project
+# Datasets for 2018-2019 Capstone Project
 
 Goal: Choose a .csv file with sufficient interesting variables (number of columns) and decently large sample size (number of rows). Think about what questions you could potentially answer or explore with the dataset.
 
