@@ -1,6 +1,8 @@
 ## How-Tos  
 
-- Directions for using jupyter notebook 
+- [Material you learned in DataCamp](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
+
+Directions for using jupyter notebook 
   1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook  
   
 - Directions for using the virtual machine
