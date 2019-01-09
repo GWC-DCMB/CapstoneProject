@@ -5,6 +5,7 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
   1) the latest .ipynb should be uploaded to your Google Drive. Change the name to be \_v1, \_v2, etc.
   2) record your progress in your Project Progress Log
 - You can communicate with your group on your project specific Slack channel
+- Check out the [how-tos](/how_tos) if you're stuck on something!
 
 ## Data Analysis Step by Step
 
