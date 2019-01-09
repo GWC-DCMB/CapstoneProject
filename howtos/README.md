@@ -3,6 +3,8 @@
 - Directions for using jupyter notebook 
   1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook  
   
+- Directions for using the virtual machine
+  
 - Directions for using command line
   1. http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
   2. https://programminghistorian.org/lessons/intro-to-bash
