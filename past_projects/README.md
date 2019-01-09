@@ -1,5 +1,5 @@
 
-#2017-2018 Capstone Projects
+# 2017-2018 Capstone Projects
 
 1) [Analyzing Mortality Rates in the USA](https://drive.google.com/open?id=1fG6b0gL2YgeNFPcnWkSd8X24PM6YcMQVKTx_zVd5EA8)
 2) [Exoplanet Huntting](https://drive.google.com/open?id=1eqQU8HjigSS5H_4AHli9Qt176faLRUlvpEcJlkH7qbQ)
