@@ -3,7 +3,7 @@
 
 Goal: Choose a .csv file with sufficient interesting variables (number of columns) and decently large sample size (number of rows). Think about what questions you could potentially answer or explore with the dataset. Pick things that you find interesting and will be motivated to explore in depth.
 
-* Vegetarian dataset: “This dataset contains survey responses from over 11,000 participants categorized as omnivores, vegetarians, and vegans. You will find many questions on motivation to maintain, or quit, a given diet, including feelings on animal rights, religion, and health. This dataset is very large and will be reduced to better suit your project goals. If you are interested in seeing the survey questions, open the survey instrument first, then feel free to explore the dataset.”
+* Vegetarian dataset: “This dataset contains survey responses from over 11,000 participants categorized as omnivores, vegetarians, and vegans. You will find many questions on motivation to maintain, or quit, a given diet, including feelings on animal rights, religion, and health. This dataset is very large and will be reduced to better suit your project goals. If you are interested in seeing the survey questions, open the [survey instrument first](Faunalytics-Current-Former-Veg-Study-Survey-Instrument.pdf), then feel free to explore the dataset.”
 * World Health Organization US Mortality Rates by County (1980-2014): https://www.kaggle.com/IHME/us-countylevel-mortality
 * World happiness rank and scores by country 2015, 2016, 2017: https://www.kaggle.com/unsdsn/world-happiness
 * Boston Marathon results: https://www.kaggle.com/rojour/boston-results
