@@ -3,7 +3,9 @@
 - Accessing Virtual Machine 
   * [Set up Duo](https://www.safecomputing.umich.edu/two-factor-authentication)
   * [Enroll smart phone in Duo](https://documentation.its.umich.edu/2fa/enroll-smartphone-or-tablet-duo)
-  * Visit classroom.dcmb.med.umich.edu and log in with your umich ID and password
+  * Visit classroom.dcmb.med.umich.edu and log in with your sponsored affiliate umich ID and password
+  * Once you're in for the first time, change your password to something you will remember
+  * You and your group are within a group within the file system too so that you can access each others files
   
 
 - [Material you learned in DataCamp](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
