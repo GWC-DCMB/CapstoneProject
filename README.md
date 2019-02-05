@@ -32,6 +32,7 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 - You should also be using numpy, check out these [exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) for more practice
 - What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
 - Remember our example project [Jupyter Notebook](20171202-gwc_exampleProject_movieLikes.ipynb)
+- A list of all the functions/methods/packages you've learned can be found [here](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
   
 ### Data visualization
 - Start visualizing your data using [matplotlib](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
