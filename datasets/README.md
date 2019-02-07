@@ -13,11 +13,22 @@ Goal: Choose a .csv file with sufficient interesting variables (number of column
 * IMDB data from last t10 years: https://www.kaggle.com/PromptCloudHQ/imdb-data/data
 * College student food and cooking prefences: https://www.kaggle.com/borapajo/food-choices
 * High school student performance in exams: https://www.kaggle.com/spscientist/students-performance-in-exams
-* College majors: https://github.com/fivethirtyeight/data/tree/master/college-majors
-* Star wars survey: https://github.com/fivethirtyeight/data/tree/master/star-wars-survey
-* Comic characters: https://github.com/fivethirtyeight/data/tree/master/comic-characters
+* College majors: 
+- https://github.com/fivethirtyeight/data/tree/master/college-majors (majors for college, master, and grad school)
+- https://nces.ed.gov/fastfacts/display.asp?id=37 (number of students by field of study, race, and time for Bachelor, Masters, and Doctors)
+- https://www2.ed.gov/rschstat/catalog/colleges-universities.html (variety of data and statistics for college)
+* Star wars:
+- https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/StarWars.csv (questionnaires for Star Wars fans)
+- https://morningconsult.com/wp-content/uploads/2017/12/171116_crosstabs_BRANDS_v1_DK-2.pdf (an assortment of yes or no questions on star wars by demographic features and/or political affiliation)
+- https://rdrr.io/cran/dplyr/man/starwars.html (demographic features for 87 characters)
+- https://www.kaggle.com/xvivancos/star-wars-movie-scripts (dialogue of characters for the original Star Wars movies)
+* Comic characters
+- https://datahub.io/five-thirty-eight/comic-characters (comic book characters and their demographic features)
+- https://www.kaggle.com/claudiodavi/superhero-set#super_hero_powers.csv (powers by comic book character) I really like this one!
+- https://www.kaggle.com/thec03u5/complete-superhero-dataset (powers and demographic features by comic book character)
 * Comma survey: https://github.com/fivethirtyeight/data/tree/master/comma-survey
 * Bob Ross: https://github.com/fivethirtyeight/data/tree/master/bob-ross
 * Thanksgiving foods from 2015: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
+
 
 More potential data sets are listed [here](https://github.com/fivethirtyeight/data/tree/master/), but you need approval from Facilitators if you choose something not on the above list.
