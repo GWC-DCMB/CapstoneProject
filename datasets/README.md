@@ -31,4 +31,4 @@ Goal: Choose a .csv file with sufficient interesting variables (number of column
 * Thanksgiving foods from 2015: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
 
 
-More potential data sets are listed [here](https://github.com/fivethirtyeight/data/tree/master/) or [here](Datasets for GWC.xlsx) but you need approval from Facilitators if you choose something not on the above list.
+More potential data sets are listed [here](https://github.com/fivethirtyeight/data/tree/master/) or [here](Datasets_for_GWC.xlsx) but you need approval from Facilitators if you choose something not on the above list.
