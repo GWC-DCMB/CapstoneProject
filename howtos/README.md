@@ -1,12 +1,14 @@
 ## How-Tos  
 
 - Accessing Virtual Machine 
+
   * [Set up Duo](https://www.safecomputing.umich.edu/two-factor-authentication)
   * [Enroll smart phone in Duo](https://documentation.its.umich.edu/2fa/enroll-smartphone-or-tablet-duo)
-  * Visit classroom.dcmb.med.umich.edu and log in with your sponsored affiliate umich ID and password
+  * Visit http://classroom.dcmb.med.umich.edu and log in with your sponsored affiliate umich ID and password
   * Once you're in for the first time, [change your password](https://documentation.its.umich.edu/node/240) to something you will remember
   * You and your group are within a user group within the file system too so that you can access each others files
-  
+   - Open Terminal and cd /class/projects/gwc
+   - Each group has a folder gwcX with X=[1..7]
 
 - [Material you learned in DataCamp](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
 
