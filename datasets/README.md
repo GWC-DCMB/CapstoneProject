@@ -30,5 +30,6 @@ Goal: Choose a .csv file with sufficient interesting variables (number of column
 * Bob Ross: https://github.com/fivethirtyeight/data/tree/master/bob-ross
 * Thanksgiving foods from 2015: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
 * [Gene expression dataset](GWC_gene_expression.csv): Gene expression data for genes significantly associated with select dermatological phenotypes. This file contains the median TPM by tissue from GTEx. Medians calcualted directly from GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_tpm.gct.gz from https://gtexportal.org/home/datasets. 
+* AP Scores: AP test scores acros subjects and stratified by various demographcis (e.g. gender) and by state: https://research.collegeboard.org/programs/ap/data/participation/ap-2018
 
 More potential data sets are listed [here](https://github.com/fivethirtyeight/data/tree/master/) or [here](Datasets_for_GWC.xlsx) but you need approval from Facilitators if you choose something not on the above list.
