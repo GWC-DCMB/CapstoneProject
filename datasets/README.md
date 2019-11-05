@@ -31,5 +31,8 @@ Goal: Choose a .csv file with sufficient interesting variables (number of column
 * Thanksgiving foods from 2015: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
 * [Gene expression dataset](GWC_gene_expression.csv): Gene expression data for genes significantly associated with select dermatological phenotypes. This file contains the median TPM by tissue from GTEx. Medians calcualted directly from GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_tpm.gct.gz from https://gtexportal.org/home/datasets. 
 * AP Scores: AP test scores acros subjects and stratified by various demographcis (e.g. gender) and by state: https://research.collegeboard.org/programs/ap/data/participation/ap-2018
+* Internet trends survey 2018: This dataset contains questions about social media use in 2018 and attitudes toward the internet and whether Americans think it’s good or bad for society. See `pew_internet_core_trends_survey.csv`, along with the key and full questionnare.
+* Homeownership in the U.S.: Homeownership by age group from the U.S. Census Bureau, 1982-2018. See `us_homeownership_1982to2018_thousands.csv` or `us_homeownership_1982to2018_thousands_long.csv`.
+
 
 More potential data sets are listed [here](https://github.com/fivethirtyeight/data/tree/master/) or [here](Datasets_for_GWC.xlsx) or [here](http://lit.eecs.umich.edu/downloads.html#undefined) but you need approval from Facilitators if you choose something not on the above list.
