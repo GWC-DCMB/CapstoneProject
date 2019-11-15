@@ -1,0 +1,68 @@
+Lake	Beach Name 	County	City	number_volunteers	total_time_hours	total_volunteer_hours	debris_weight_lbs	total_num_items	paper_bags 	plastic_bags	beverage_container_plastic	beverage_container_glass_can	beverage_related_items	food_related_items	recreational_items	 balloons	clothing_shoes	personal_hygiene_items 	tobacco _related_items	drug_paraphernalia 	fishing_related_items	shotgun_shells	household_items	appliances	 crates 	pallets 	 rope	 strapping_bands 	building_materials	55-Gal_	automobile_items	entangled_animal	Most Peculiar Item Found 	Misc. Items
+Michigan	Laketown Beach	Allegan		23	2	46	70	1016	14	23	33	21	223	122	31	72	14	6	388	2	5	28	1	0	0	0	14	0	19	0	0	none	Decapitated Barbie doll head	Plastic and Styrofoam pieces
+Michigan	Pier Cove	Allegan		8	1	8	10	209	0	1	6	3	58	13	9	6	2	1	106	0	1	2	0	0	0	0	1	0	0	0	0	none		"styrofoam, foil, and bubble wand"
+Michigan	Esch Road - North	Benize		11	3	33	5	1037	32	222	1	3	155	89	96	7	9	2	412	0	3	6	0	0	0	0	0	0	0	0	0	none		styrofoam pieces
+Michigan	Frankfort Municipal Beach	Benzie	Frankfort	48	2	96	118	2390	63	68	8	45	200	568	38	52	31	28	1221	1	33	3	4	0	0	0	20	0	0	0	7	none	Artificial flowers from outdoor wedding - also frayed truck tire	bits of plastic - sources unknown
+Michigan	Lions Park Beach	Berrien	St. Joseph	27	4	108	78	2668	6	35	19	21	215	670	31	15	16	10	1615	0	3	1	0	0	0	0	0	1	10	0	0	none	"flip flop, plastic pretend french fry, eyeglass frame, 2x4 board, dental floss pick, hair tie"	"twist-tie, plastic pieces, and styrofoam"
+Michigan	Grand Mere State Park	Berrien		13	3	39	20	409	14	35	14	5	159	41	34	12	3	4	81	0	0	0	0	0	0	0	1	2	1	0	3	none	what looked like a rusted auto bumper.	"misc. plastic items, pieces of astro turf, ribbons, and bows"
+Michigan	Tiscornia Beach	Berrien		28	4	112	145	793	26	24	15	13	147	50	14	14	5	6	461	0	7	0	2	0	0	0	3	5	1	0	0	none	wooden bar stool	pieces of plastic and beach towel
+Michigan	Beaver Island	Charlevoix	Beaver Island	17	3	51	442	1056	5	42	31	30	109	116	39	68	12	1	520	1	20	7	9	1	1	2	16	2	15	4	5	none	"weather balloon, second balloon/parachute combo with partial electronic module"	"fireworks debris, life jackets, and broken cooler"
+Michigan	Charlevoix Hospital - South	Charlevoix		30	3	90	20	194	4	11	17	13	13	34	0	7	0	0	93	0	2	0	0	0	0	0	0	0	0	0	0	none		
+Michigan	Petoskey State Park	Emmet		11	3	33	45	1593	58	200	6	7	95	261	8	42	15	0	892	0	2	1	0	0	0	0	0	4	1	0	1	none	We listed plastic pieces and paper pieces with the total count with the two categories of bags.	styrofoam and metal pieces  and bandaids
+Michigan	Interlochen State Park	Grand Traverse	Interlochen	10	3	30	5	209	0	0	25	6	125	40	2	9	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	none		
+Michigan	Bryant Park - West Bay	Grand Traverse	Traverse City	8	3	24	20	1504	8	25	1	11	68	157	6	0	1	4	1219	0	0	0	0	0	0	0	0	0	3	0	1	none		Fireworks/debris
+Michigan	Christmas Cove	Leelanau		4	1	4	20	296	0	1	6	0	86	41	9	15	0	2	105	0	1	19	3	0	0	0	4	1	3	0	0	none		
+Michigan	County Road 669 - North	Leelenau		2	3	6	5	365	2	19	3	2	62	24	61	3	2	4	174	0	0	4	1	0	0	0	1	1	1	0	1	none		
+Michigan	Portage Point	Manistee		12	2	24	70	679	77	75	17	19	78	100	45	4	7	2	228	1	2	1	1	0	0	0	2	1	16	0	3	none		Dead Fish
+Michigan	Arcadia Township Beach	Manistee		46	3	138	7	517	2	20	0	6	89	48	11	3	5	0	303	1	1	20	0	0	0	0	1	6	0	0	1	none		plastic items and golf balls
+Michigan	Stearns City Park	Mason		14	3	35	42	1538	5	15	6	10	71	334	12	29	8	0	993	1	4	12	0	0			1	6	30	0	1	none		fireworks and snow fence
+Michigan	Ludington Beach - Between N & S Pier	Mason	Ludington	5	10	50	65	1318	0	35	39	26	246	315	14	28	6	4	575	0	1	18	0	0	0	0	1	1	0	0	9	none	9 tires	misc paper and styrofoam
+Michigan	Ludington State Park - Sable River to Big Sable Point	Mason		3	3	9	20	536	0	4	10	0	126	36	6	24	2	6	275	0	5	25	0	0	0	0	0	13	3	0	1	none	A large piece of a plastic chair.	
+Michigan	J.W. Wells State Park	Menominee	Cedar River	9	3	27	5	280	9	24	23	68	21	23	4	0	5	1	89	0	3	1	1	0	0	2	4	1	0	0	1	none	There were no strange items found. 90% of the debris fit exactly into the categories on the data card.	pieces of styrofoam
+Michigan	P.J. Hoffmaster State Park	Muskegon	Norton Shores	28	3	84	252	4241	20	49	157	33	1518	576	12	126	31	3	1638	0	10	37	1	1	2	0	2	7	14	0	4	none		plastic and Styrofoam pieces
+Michigan	Lake Harbor Park	Muskegon	Norton Shores	28	3	84	137	2365	16	16	10	11	92	154	6	3	6	5	2028	0	8	0	5	1	0	0	1	1	1	0	1	none	refridgerator door	"fireworks, ribbon, and flip flop"
+Michigan	Pere Marquette Park - Between channel and south pier	Muskegon	Muskegon	43	3	129	75	4529	9	37	59	35	826	800	43	69	17	14	2448	0	12	1	9				16	105	25		4	none	"camera lens cover, candles (2 by different volunteers), hospital ID bracelet"	"hair items - barrettes, elastics"
+Michigan	Duck Lake State Park	Muskegon	Whitehall	200	3	600	50	3374	109	191	36	169	244	687	95	27	15	29	1653	2	16	33	5	0	0	2	22	6	25	0	8	none		pieces of glass
+Michigan	Charles Mears State Park	Oceana		17	2	34	17	1305	16	27	2	4	95	167	9	3	2	1	975	0	0	1	0	0	0	0	1	2	0	0	0	none	"Band aid, anchor, boot lace, tons of cigarette butts!"	Band aids and zip ties
+Michigan	Silver Lake Beach	Oceana		8	3	24	22	496	15	6	14	17	115	32	9	23	3	7	230	2	1	0	0	0	0	0	17	3	0	0	2	none	bird	ribbon
+Michigan	Grand Haven State Park	Ottawa	Grand Haven	130	3	390	151	9032	118	322	18	50	1076	1308	54	118	21	17	5776	2	4	12	0	0			41	51	44	0	0	none	syringes	"bandaids, plastice, styrofoam"
+Michigan	Rosy Mound Beach	Ottawa		6	2	12	11	101	1		6	3	44	17	2	20	2	0	0	0	0	6	0		0						0	none		Styrofoam cups and boat brush
+Michigan	Windsnest Park Beach	Ottawa	Holland	26	3	78	120	1136	9	71	8	19	281	169	28	37	1	6	491	0	0	8	0					5	2		1	none	event wristband from Milwaukee	computer piece and towel
+Michigan	Gulliver Public Beach	Schoolcraft		4	5	20	30	88	1	4	4	6	6	10	20	14	2	0	13	0	4	2	0	0	0	0	2	0	0	0	0	none	pool thermometer	
+Michigan	Seul Choix Point	Schoolcraft		3	1	3	3	12	0	0	0	0	1	0	0	2	0	0	1	8	0	0	0	0	0	0	0	0	0	0	0	none		fabric petals from a wedding in late August
+Michigan	Van Buren State Park	Van Buren		9	4	36	128	1191	1	9	32	66	164	90	47	55	15	6	643	0	3	20	3	0	0	0	2	1	26	0	8	none	mill stone	grooming items & polystyrene-parts of items
+Michigan	South Haven - South Beach	Van Buren	South Haven	18	3	54	5	1219	34	66	1	12	96	185	34	24	13	1	753	0	0	0	0	0	0	0	0	0	0	0	0	none		tile and rubber bands
+Michigan	Covert Township Park	Van Buren		2	3	6	30	86	0	5	2	4	33	6	1	1	3	4	22	0	1	3	0	0	0	0	1	0	0	0	0	none		
+Huron	Cheboyban State Park	Cheboygan		6	3	18	45	236	7	59	8	4	16	60	14	1	4	1	41	0	4	6	0	0	0	0	4	2	5	0	0	none	plastic tub off of a tribal fishing boat	"cable, metal plate, plastic tube of a tribal fishing boat "
+Huron	Sleeper State Park	Huron		20	2	40	57	1625	10	49	21	99	144	351	31	10	6	0	873	0	0	8	0	0	0	0	15	4	3	0	1	none	baseball	band aids
+Huron	Port Crescent State Park	Huron		5	3	15	6	323	0	4	10	15	24	46	5	8	2	2	177	0	3	18	0	0	0	0	2	3	4	0	0	none	A pair of perscription glasses.	"eyeglasses, pieces of styrofoam, bits of metal"
+Huron	Caseville County Park	Huron	Caseville	85	3	225	55	1523	18	69	37	52	202	230	40	12	21	8	767	0	13	15	5	0	0	0	15	13	2	0	4	none	"clothespin, shoe, midol box, Budlight Lime bottle, Thunder Roads hubcap, bead, part of a bike seat, shirt, shoes, part of a car bumper, sock, blue plastic bottle, elastic band, tire weight with chain"	Firework debris and bandaids
+Huron	Tawas Point State Park	Iosco		10	2	20	24	573	2	26	12	9	30	210	22	4	1	2	233	0	3	10	0	0	0	0	1	5	3	0	0	none	golf balls	
+Huron	Pte. Aux Chenes	Mackinac	Saint Ignace	2	2	4	35	109	0	17	8	3	12	36	9	7	3	0	2	0	3	3	0	0	0	0	5	0	0	0	1	none	boogie board	cosmetics and swim/recreation equipment
+Huron	Lexington County Park	Sanilac		5	1	5	5	80	3	3	0	6	5	29	5	2	3	0	24	0	0	0	0	0	0	0	0	0	0	0	0	none	clothespin shoes	
+Erie	Metro Beach	Macomb		21	3	63	109	1558	14	19	40	24	383	232	21	10	22	2	646	0	11	78	3	0	0	0	9	25	15	0	4	none	"Peacock feather, (didn\'t know they existed in Michigan)"	
+Erie	Consumers Energy J.R. Whiting Plant shoreline area	Monroe	Erie	18	3	54	300	1352	12	82	160	199	243	62	8	44	19	150	87	1	52	160	21	0	3	5	2	5	4	1	32	none	Broken fiberglass boat	"Ice Shanty's, needle, medication"
+Erie	Sterling State Park	Wayne		11	3	33	40	1700	4	71	119	20	225	121	35	5	10	23	1041	1	0	0	0	0	0	0	17	7	0	0	1	none		Sewer Cap and styrofoam
+Superior	L'Anse Waterfront Park Beach	Baraga	L'Anse	65	2	130	50	0	26	95	10	28	152	501	23	5	22	1	219	0	2	2	95	2	0	0	9	5	2	0	0	none		
+Superior	First Sand Beach	Baraga	L'Anse	65	1	65	50	0	43	342	34	110	197	657	19	8	37	9	564	0	12	33	10	1	0	1	49	12	108	0	5	none		
+Superior	Second Sand Beach	Baraga	L'Anse	65	2	130	50	0	28	68	18	114	132	362	9	4	6	4	61	0	3	12	5	2	0	0	4	8	32	0	4	none		
+Superior	Calumet Township Park Beach	Houghton	Calumet	127	3	381	338	0	34	186	40	134	494	1175	16	71	32	9	29	0	5	1	2	0	0	0	2	11	423	0	15	none	golf balls and fish tags	"glass pieces, metal scraps"
+Superior	Chassell Beach	Houghton		21	3	63	21	0	2	10	2	16	36	344	14	27	12	3	10	0	3	0	3	0	0	0	7	5	10	0	1	none	blanket	"lollipop sticks, plastic pieces, glass pieces"
+Superior	North Canal Park	Houghton		155	5	775	123	0	21	0	15	73	151	199	16	2	6	23	12	1	0	2	2	0	0	0	0	0	180	0	4	none	"I don't know if it's peculiar, but we did find a glass drug pipe. That's a first for us!"	nails
+Superior	Bete Gris North - Public Beach	Keweenaw		3	1	3	5	0	0	0	0	7	23	59	9	3	1	0	8	0	0	1	0	0	0	0	0	0	0	0	0	none		ribbons
+Superior	Bete Gris Preserve	Keweenaw		3	1	3	5	0	1	1	1	2	11	22	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	none		Firework debris
+Superior	Lizzadro Preserve	Keweenaw		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	none		
+Superior	Cat Harbor	Keweenaw		2	1	2	2	0	0	7	1	2	10	6	0	3	5	1	4	0	0		1	0			1		1	0	0	none	feminine hygiene products	ribbon
+Superior	Eagle Harbor Beach	Keweenaw	Calumet	15	2	30	28	0	0	13	6	30	147	201	208	5	54	4	4	0	7	1	0	0	0	0	25	9	20	0	4	none	old shoe leather tossed up by Lake Superior - of local historical interest so sent to local archivist	plastic fragments
+Superior	Hunter's Point	Keweenaw		2	1	2	4	0	1	3	7	7	9	5	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	none	"1 metal 4 inch model military fighter jet (expensive) and a business card (Haymarket, VA) that may be source"	"food wrappers /containers 2 lbs, 2 sq ft of hard plastic"
+Superior	Horseshoe Harbor	Keweenaw		2	2	4	16	0	0	2	0	2	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	none	X-country ski with frame attachment and 3X5 piece of hard plastic. We speculate it was the remnants of a homemade sled for hauling an ice fishing shanty.	"X-country ski and 3' X 5' heavy plastic, toilet"
+Superior	Porter's Island	Keweenaw		2	2	4	15	0	0	23	16	6	26	3	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	none	30 feet of light weight rope	"scraps paper, plastic, tinfoil, styrofoam 2-3 lbs, 5ft wire, 10 lbs fireworks debris"
+Superior	Seven Mile Point	Keweenaw		1	2	2	4	0	0	2	0	0	15	11	2	9	2	1	2	0	0	3	0	0	0	0	11	1	0	0	0	none		"plastic fragments, fish tags"
+Superior	Veale Park	Keweenaw		6	2	12	65	0	0	5	3	7	24	7	1	2	0	0	0	0	1	1	0	0	0	0	7	0	0	0	1	none	Section of fiberglass boat	"3'X2' section of fiberglass boat, ribbon, shampoo bottles"
+Superior	Tobacco River Park	Keweenaw		37	3	111	30	0	0	11	17	69	38	75	6	2	22	0	2	0	5	0	2	0	0	0	4	0	22	0	0	none		"plastic, glass, metal"
+Superior	Eagle River to Great Sand Bay	Keweenaw	Calumet	5	1	5	31	0	2	6	2	31	34	81	2	2	4	4	16	0	0	2	3	0			3			0	3	none	3 foot fender possibly for JetSki	"Metal, plastic"
+Superior	Squaw Beach	Marquette		9	2	18	100	0	3	7	3	30	28	54	30	0	2	1	4	0	2	2	0	1	0	0	2	0	0	0	6	none	Bed frame	"circuit breakers, shovel"
+Superior	Founders Landing	Marquette		22	3	66	30	0	18		11	73	32	118	1	0	8	0	0	0	0	5	0								0	none		"Glass pieces, styrofoam pieces, fake flowers"
+Superior	Marquette South Beach Park	Marquette		25	3	75	30	0	13	128	9	10	63	58	16	0	1	2	14	1	1	0	0	0	0	0	0	1	2	0	3	none		Styrofoam Pieces
+Superior	NMU Beach	Marquette		20	3	60	30	0	19	38	20	44	47	76	5	0	7	10	32	0	1	1	0	0	0	0	0	1	1	0	2	none		"Napkins, sunglasses, compact disc"
+Superior	Picnic Rocks - to McCarty's Cove	Marquette		15	3	45	30	0	33	26	12	29	101	160	24	5	17	4	18	0	3	0	0	0	0	0	0	0	10	0	3	none		Styrofoam pieces

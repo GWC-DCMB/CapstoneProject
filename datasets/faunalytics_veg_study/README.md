@@ -1,0 +1,3 @@
+# Faunalytics Study
+
+This dataset contains survey responses from over 11,000 participants categorized as omnivores, vegetarians, and vegans. You will find many questions on motivation to maintain, or quit, a given diet, including feelings on animal rights, religion, and health. This dataset is very large and will be reduced to better suit your project goals. If you are interested in seeing the survey questions, open the [survey instrument first](Faunalytics-Current-Former-Veg-Study-Survey-Instrument.pdf), then feel free to explore the dataset.[Source](https://faunalytics.org/dataset-study-of-current-and-former-vegetarians-and-vegans/)
