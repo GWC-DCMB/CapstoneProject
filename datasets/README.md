@@ -60,7 +60,8 @@ Goal: Choose a dataset with sufficient interesting variables (number of columns)
     - Information about economics, education, climate change, gender equality, health, and land use over time across the globe. Browse different indicators [here]() and see the excel sheet `WorldBankIndicator_ForestedLandArea.xlsx` for example.
 - World Health Organization US Mortality Rates by County (1980-2014)
     - https://www.kaggle.com/IHME/us-countylevel-mortality
-- World happiness rank and scores by country 2015, 2016, 2017
+- [World happiness](world_happiness)
+    - rank and scores by country 2015, 2016, 2017
     - https://www.kaggle.com/unsdsn/world-happiness
 - Zillow: Rent affordability, housing price-to-income ratios, housing aspirations, plus predictions about homes at risk due to rising sea levels (see [article](https://www.zillow.com/research/ocean-at-the-door-21931/) and [dataset](http://files.zillowstatic.com/research/public/StaticFiles/RisingSeas/RisingSeas_2018-11.csv)). Link to explore/download datasets [here](https://www.zillow.com/research/data/).
 
