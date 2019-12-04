@@ -3,16 +3,13 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 
 - At the end of each meeting:
   1) the latest .ipynb should be uploaded to your Google Drive. Change the name to be \_v1, \_v2, etc.
-  2) record your progress in your Project Progress Log
-- You can communicate with your group on your project specific Slack channel
+- You can communicate with your group on Slack
 - Check out the [how-tos](/howtos/README.md) if you're stuck on something!
 
 ## Data Analysis Step by Step
 
 ### Get organized!
-- One partner should make a Google Drive folder and share it with group mentor, partner, and bwolford@umich.edu
-
-- Each person should download the original data set to a project directory on your virtual machine
+- One partner should make a Google Drive folder and share it with group mentor and partner
 - Start familiarizing yourself with your data. What are the data types in each column of the data set (e.g. float, string)?
 
 ### Hypothesis generation
