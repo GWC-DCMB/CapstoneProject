@@ -16,6 +16,8 @@ data = pd.read_csv(url + filepath)
 Be sure to update the `filepath` variable for your specific dataset!
 You also may want to rename the `data` variable to something that's more descriptive for your dataset.
 
+If you pick a dataset that's not in our GitHub repo yet, ask your facilitator to add it to GitHub for you.
+
 ## Datasets
 
 **Goal**: Choose a dataset with enough interesting variables (number of columns) and a large sample size (number of rows). Think about what questions you could potentially answer and explore with the dataset. Pick a dataset that you find interesting and will be motivated to explore in depth.
