@@ -10,7 +10,7 @@ For example, if you're using the [AP_exams](AP_exams) dataset, your filepath wou
 ```python
 url = "https://raw.githubusercontent.com/GWC-DCMB/CapstoneProject/master/datasets/"
 filepath = "AP_exams/ap_exams_MI_2018.csv"
-data = pd.read_csv(filepath)
+data = pd.read_csv(url + filepath)
 ```
 
 Be sure to update the `filepath` variable for your specific dataset!
