@@ -1,4 +1,22 @@
-# Datasets
+# Capstone Project Datasets
+
+## How to import a CSV file from GitHub in Python
+
+Everyone will use the same `url` to this repository, then append a `filepath` for your dataset. 
+For example, if you're using the [AP_exams](AP_exams) dataset, your filepath would be `AP_exams/ap_exams_MI_2018.csv`.
+
+#### Example
+
+```python
+url = "https://raw.githubusercontent.com/GWC-DCMB/CapstoneProject/master/datasets/"
+filepath = "AP_exams/ap_exams_MI_2018.csv"
+data = pd.read_csv(filepath)
+```
+
+Be sure to update the `filepath` variable for your specific dataset!
+You also may want to rename the `data` variable to something that's more descriptive for your dataset.
+
+## Datasets
 
 Goal: Choose a dataset with sufficient interesting variables (number of columns) and decently large sample size (number of rows). Think about what questions you could potentially answer or explore with the dataset. Pick things that you find interesting and will be motivated to explore in depth.
 
