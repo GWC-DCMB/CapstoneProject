@@ -6,7 +6,7 @@
     - Hot 100 audio features from Spotify: [hot_100_audio_features.csv](hot_100_audio_features.csv)
 - To import the data in python:
     ```python
-    url_path = https://raw.githubusercontent.com/GWC-DCMB/CapstoneProject/master/datasets/
+    url_path = "https://raw.githubusercontent.com/GWC-DCMB/CapstoneProject/master/datasets/"
     billboard_singles = pd.read_csv(url_path + "music_billboard_hot_100/hot_stuff_2.csv")
     audio_features = pd.read_csv(url_path + "music_billboard_hot_100/hot_100_audio_features.csv")
     ```
