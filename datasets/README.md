@@ -18,7 +18,7 @@ You also may want to rename the `data` variable to something that's more descrip
 
 ## Datasets
 
-Goal: Choose a dataset with sufficient interesting variables (number of columns) and decently large sample size (number of rows). Think about what questions you could potentially answer or explore with the dataset. Pick things that you find interesting and will be motivated to explore in depth.
+**Goal**: Choose a dataset with enough interesting variables (number of columns) and a large sample size (number of rows). Think about what questions you could potentially answer and explore with the dataset. Pick a dataset that you find interesting and will be motivated to explore in depth.
 
 - [AP exams](AP_Exams) [SE]
     - AP test scores across subjects and stratified by various demographics (e.g. gender) and by state: https://research.collegeboard.org/programs/ap/data/participation/ap-2018
