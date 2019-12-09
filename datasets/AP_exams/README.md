@@ -2,8 +2,6 @@
 
 This file contains data for 2018 AP exam results from the state of Michigan from [College Board](https://research.collegeboard.org/programs/ap/data/participation/ap-2018).
 
-The file the following structure:
-
 Header | Definition
 ---|---------
 `ap_exam` | Exam subject
