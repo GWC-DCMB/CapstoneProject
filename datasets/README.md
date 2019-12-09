@@ -45,6 +45,7 @@ Goal: Choose a dataset with sufficient interesting variables (number of columns)
     - Environmental impact of the global apparel and footwear industries study, [see the full report here](https://quantis-intl.com/wp-content/uploads/2018/03/measuringfashion_globalimpactstudy_full-report_quantis_cwf_2018a.pdf).
 - Mental health in tech survey
     - https://www.kaggle.com/osmi/mental-health-in-tech-survey
+- [Music: Billboard Hot 100 singles & Spotify audio features](music_billboard_hot_100)
 - Open Policing
     - Standardized data on vehicle and pedestrian stops from law enforcement departments across the country. [Browse for datasets by location here](https://openpolicing.stanford.edu/data/).
 - Social media use and adolescent mental health
