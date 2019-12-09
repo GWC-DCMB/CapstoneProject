@@ -16,7 +16,7 @@ data = pd.read_csv(url + filepath)
 Be sure to update the `filepath` variable for your specific dataset!
 You also may want to rename the `data` variable to something that's more descriptive for your dataset.
 
-If you pick a dataset that's not in our GitHub repo yet, ask your facilitator to add it to GitHub for you.
+If you pick a dataset that's not in our GitHub repo yet, ask a facilitator to add it to GitHub for you.
 
 ## Datasets
 
