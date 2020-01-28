@@ -1,0 +1,281 @@
+country.name.en,continent,ioc
+Afghanistan,Asia,AFG
+Åland Islands,Europe,NA
+Albania,Europe,ALB
+Algeria,Africa,ALG
+American Samoa,Oceania,ASA
+Andorra,Europe,AND
+Angola,Africa,ANG
+Anguilla,Americas,NA
+Antarctica,NA,NA
+Antigua & Barbuda,Americas,ANT
+Argentina,Americas,ARG
+Armenia,Asia,ARM
+Aruba,Americas,ARU
+Australia,Oceania,AUS
+Austria,Europe,AUT
+Austria-Hungary,NA,NA
+Azerbaijan,Asia,AZE
+Baden,NA,NA
+Bahamas,Americas,BAH
+Bahrain,Asia,BRN
+Bangladesh,Asia,BAN
+Barbados,Americas,BAR
+Bavaria,NA,NA
+Belarus,Europe,BLR
+Belgium,Europe,BEL
+Belize,Americas,BIZ
+Benin,Africa,BEN
+Bermuda,Americas,BER
+Bhutan,Asia,BHU
+Bolivia,Americas,BOL
+Caribbean Netherlands,Americas,NA
+Bosnia & Herzegovina,Europe,BIH
+Botswana,Africa,BOT
+Bouvet Island,NA,NA
+Brazil,Americas,BRA
+British Indian Ocean Territory,NA,NA
+Brunei,Asia,BRU
+Brunswick,NA,NA
+Bulgaria,Europe,BUL
+Burkina Faso,Africa,BUR
+Burundi,Africa,BDI
+Cape Verde,Africa,CPV
+Cambodia,Asia,CAM
+Cameroon,Africa,CMR
+Canada,Americas,CAN
+Cayman Islands,Americas,CAY
+Central African Republic,Africa,CAF
+Chad,Africa,CHA
+Channel Islands,NA,NA
+Chile,Americas,CHI
+China,Asia,CHN
+Christmas Island,Oceania,NA
+Cocos (Keeling) Islands,NA,NA
+Colombia,Americas,COL
+Comoros,Africa,COM
+Congo - Brazzaville,Africa,CGO
+Cook Islands,Oceania,COK
+Costa Rica,Americas,CRC
+Côte d’Ivoire,Africa,CIV
+Croatia,Europe,CRO
+Cuba,Americas,CUB
+Curaçao,Americas,NA
+Cyprus,Asia,CYP
+Czechia,Europe,CZE
+Czechoslovakia,NA,NA
+North Korea,Asia,PRK
+Congo - Kinshasa,Africa,COD
+Denmark,Europe,DEN
+Djibouti,Africa,DJI
+Dominica,Americas,DMA
+Dominican Republic,Americas,DOM
+Ecuador,Americas,ECU
+Egypt,Africa,EGY
+El Salvador,Americas,ESA
+Equatorial Guinea,Africa,GEQ
+Eritrea,Africa,ERI
+Estonia,Europe,EST
+Ethiopia,Africa,ETH
+Falkland Islands,Americas,NA
+Faroe Islands,Europe,NA
+Fiji,Oceania,FIJ
+Finland,Europe,FIN
+France,Europe,FRA
+French Guiana,Americas,NA
+French Polynesia,Oceania,NA
+French Southern Territories,NA,NA
+Gabon,Africa,GAB
+Gambia,Africa,GAM
+Georgia,Asia,GEO
+German Democratic Republic,NA,NA
+Germany,Europe,GER
+Ghana,Africa,GHA
+Gibraltar,Europe,NA
+Greece,Europe,GRE
+Greenland,Americas,NA
+Grenada,Americas,GRN
+Guadeloupe,Americas,NA
+Guam,Oceania,GUM
+Guatemala,Americas,GUA
+Guernsey,Europe,NA
+Guinea,Africa,GUI
+Guinea-Bissau,Africa,GBS
+Guyana,Americas,GUY
+Haiti,Americas,HAI
+Hamburg,NA,NA
+Hanover,NA,NA
+Heard & McDonald Islands,NA,NA
+Hesse Electoral,NA,NA
+Hesse Grand Ducal,NA,NA
+Hesse-Darmstadt,NA,NA
+Hesse-Kassel,NA,NA
+Vatican City,Europe,NA
+Honduras,Americas,HON
+Hong Kong SAR China,Asia,HKG
+Hungary,Europe,HUN
+Iceland,Europe,ISL
+India,Asia,IND
+Indonesia,Asia,INA
+Iran,Asia,IRI
+Iraq,Asia,IRQ
+Ireland,Europe,IRL
+Isle of Man,Europe,NA
+Israel,Asia,ISR
+Italy,Europe,ITA
+Jamaica,Americas,JAM
+Japan,Asia,JPN
+Jersey,Europe,NA
+Jordan,Asia,JOR
+Kazakhstan,Asia,KAZ
+Kenya,Africa,KEN
+Kiribati,Oceania,KIR
+Kosovo,NA,KOS
+Kuwait,Asia,KUW
+Kyrgyzstan,Asia,KGZ
+Laos,Asia,LAO
+Latvia,Europe,LAT
+Lebanon,Asia,LBN
+Lesotho,Africa,LES
+Liberia,Africa,LBR
+Libya,Africa,LBA
+Liechtenstein,Europe,LIE
+Lithuania,Europe,LTU
+Luxembourg,Europe,LUX
+Macau SAR China,Asia,NA
+Madagascar,Africa,MAD
+Malawi,Africa,MAW
+Malaysia,Asia,MAS
+Maldives,Asia,MDV
+Mali,Africa,MLI
+Malta,Europe,MLT
+Marshall Islands,Oceania,MHL
+Martinique,Americas,NA
+Mauritania,Africa,MTN
+Mauritius,Africa,MRI
+Mayotte,Africa,NA
+Mecklenburg Schwerin,NA,NA
+Mexico,Americas,MEX
+Micronesia (Federated States of),Oceania,FSM
+Modena,NA,NA
+Monaco,Europe,MON
+Mongolia,Asia,MGL
+Montenegro,Europe,MNE
+Montserrat,Americas,NA
+Morocco,Africa,MAR
+Mozambique,Africa,MOZ
+Myanmar (Burma),Asia,MYA
+Namibia,Africa,NAM
+Nassau,NA,NA
+Nauru,Oceania,NRU
+Nepal,Asia,NEP
+Netherlands,Europe,NED
+Netherlands Antilles,Americas,NA
+New Caledonia,Oceania,NA
+New Zealand,Oceania,NZL
+Nicaragua,Americas,NCA
+Niger,Africa,NIG
+Nigeria,Africa,NGR
+Niue,Oceania,NA
+Norfolk Island,Oceania,NA
+Northern Mariana Islands,Oceania,NA
+Norway,Europe,NOR
+Oldenburg,NA,NA
+Oman,Asia,OMA
+Pakistan,Asia,PAK
+Palau,Oceania,PLW
+Palestinian Territories,Asia,PLE
+Panama,Americas,PAN
+Papua New Guinea,Oceania,PNG
+Paraguay,Americas,PAR
+Parma,NA,NA
+Peru,Americas,PER
+Philippines,Asia,PHI
+Piedmont-Sardinia,NA,NA
+Pitcairn Islands,Oceania,NA
+Poland,Europe,POL
+Portugal,Europe,POR
+Puerto Rico,Americas,PUR
+Qatar,Asia,QAT
+South Korea,Asia,KOR
+Moldova,Europe,MDA
+Réunion,Africa,NA
+Romania,Europe,ROU
+Russia,Europe,RUS
+Rwanda,Africa,RWA
+St. Barthélemy,Americas,NA
+St. Helena,Africa,NA
+St. Kitts & Nevis,Americas,SKN
+St. Lucia,Americas,LCA
+Saint Martin (French part),Americas,NA
+St. Pierre & Miquelon,Americas,NA
+St. Vincent & Grenadines,Americas,VIN
+Samoa,Oceania,SAM
+San Marino,Europe,SMR
+São Tomé & Príncipe,Africa,STP
+Saudi Arabia,Asia,KSA
+Saxe-Weimar-Eisenach,NA,NA
+Saxony,NA,NA
+Senegal,Africa,SEN
+Serbia,Europe,SRB
+Seychelles,Africa,SEY
+Sierra Leone,Africa,SLE
+Singapore,Asia,SGP
+Sint Maarten,Americas,NA
+Slovakia,Europe,SVK
+Slovenia,Europe,SLO
+Solomon Islands,Oceania,SOL
+Somalia,Africa,SOM
+South Africa,Africa,RSA
+South Georgia & South Sandwich Islands,NA,NA
+South Sudan,Africa,SSD
+Spain,Europe,ESP
+Sri Lanka,Asia,SRI
+Sudan,Africa,SUD
+Suriname,Americas,SUR
+Svalbard & Jan Mayen,Europe,NA
+Swaziland,Africa,SWZ
+Sweden,Europe,SWE
+Switzerland,Europe,SUI
+Syria,Asia,SYR
+Taiwan,Asia,TPE
+Tajikistan,Asia,TJK
+Thailand,Asia,THA
+Macedonia,Europe,MKD
+Timor-Leste,Asia,TLS
+Togo,Africa,TOG
+Tokelau,Oceania,NA
+Tonga,Oceania,TGA
+Trinidad & Tobago,Americas,TTO
+Tunisia,Africa,TUN
+Turkey,Asia,TUR
+Turkmenistan,Asia,TKM
+Turks & Caicos Islands,Americas,NA
+Tuscany,NA,NA
+Tuvalu,Oceania,TUV
+Two Sicilies,NA,NA
+Uganda,Africa,UGA
+Ukraine,Europe,UKR
+United Arab Emirates,Asia,UAE
+United Kingdom,Europe,GBR
+Tanzania,Africa,TAN
+United States Minor Outlying Islands (the),NA,NA
+United States,Americas,USA
+Uruguay,Americas,URU
+Uzbekistan,Asia,UZB
+Vanuatu,Oceania,VAN
+Venezuela,Americas,VEN
+Vietnam,Asia,VIE
+British Virgin Islands,Americas,IVB
+U.S. Virgin Islands,Americas,NA
+Wallis & Futuna,Oceania,NA
+Western Sahara,Africa,NA
+Wuerttemburg,NA,NA
+Würtemberg,NA,NA
+Yemen,Asia,YEM
+Yemen Arab Republic,NA,NA
+Yemen People's Republic,NA,NA
+Yugoslavia,NA,NA
+Zambia,Africa,ZAM
+Zanzibar,NA,NA
+Zimbabwe,Africa,ZIM
