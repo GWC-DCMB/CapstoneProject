@@ -75,6 +75,9 @@ If you pick a dataset that's not in our GitHub repo yet, ask a facilitator to ad
   - https://morningconsult.com/wp-content/uploads/2017/12/171116_crosstabs_BRANDS_v1_DK-2.pdf (an assortment of yes or no questions on star wars by demographic features and/or political affiliation)
   - https://rdrr.io/cran/dplyr/man/starwars.html (demographic features for 87 characters)
   - https://www.kaggle.com/xvivancos/star-wars-movie-scripts (dialogue of characters for the original Star Wars movies)
+- [Superheroes](superheroes/)
+  - https://www.kaggle.com/thec03u5/complete-superhero-dataset
+  - https://www.kaggle.com/claudiodavi/superhero-set
 - [Thanksgiving foods from 2015](thanksgiving_foods) [SE]
 - [US weather](US_weather) [SE]
 - [World Bank indicators](world_bank_indicators)
