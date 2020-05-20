@@ -22,7 +22,7 @@ If you pick a dataset that's not in our GitHub repo yet, ask a facilitator to ad
 
 **Goal**: Choose a dataset with enough interesting variables (number of columns) and a large sample size (number of rows). Think about what questions you could potentially answer and explore with the dataset. Pick a dataset that you find interesting and will be motivated to explore in depth.
 
-- [AP exams](AP_Exams) [SE]
+- [AP exams](AP_exams) [SE]
     - AP test scores across subjects and stratified by various demographics (e.g. gender) and by state: https://research.collegeboard.org/programs/ap/data/participation/ap-2018
 - [Birthdays](birthdays) [SE]
 - Bob Ross
