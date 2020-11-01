@@ -40,11 +40,3 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 - Review the [example presentation](project_example.pdf) by Rucheng Diao 
 - Practice your presentation
 
-## Goals by Date
-
-December 3, 2019
-- Select a data set
-- Create ONE jupyter notebook through Google colab (remember paired programming) 
-- Share the notebook (via Google Drive) with your group members and mentors
-- Read in your data set using pandas, start exploring the rows and columns (look back at lessons & practices)
-- Formulate a hypothesis or questions to guide your analysis
