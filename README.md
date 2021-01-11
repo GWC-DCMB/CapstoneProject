@@ -14,12 +14,7 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 ### Hypothesis generation
 - Refine the question or [hypothesis](https://www.sciencebuddies.org/blog/a-strong-hypothesis) you want to explore in your project  
 - Make a plan for what steps you need to take to answer the question  
-- Sketch out potential plots including x and y axes  
-  Example: Do women tweet more about Trump than men?  
-  Step 1: Identify tweets about Trump  
-  Step 2: Identify gender of the account  
-  Step 3: Count how many tweets about Trump belong to women, men, or unknown  
-  Step 4: Bar graph with y axis=number of tweets (discrete variable) and x axis=men vs women (categorical variable)  
+- Sketch out potential plots including x and y axes (do this on paper with your group)
 
 ### Data cleaning
 - Start cleaning data programatically. Add commands to your .ipynb.
