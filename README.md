@@ -1,14 +1,13 @@
 # CapstoneProject
-Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
+Step by step goals for completing the Girls Who Code at UM DCMB Capstone Project.
 
-- At the end of each meeting the latest .ipynb should be uploaded to your Google Drive. Make some notes in the notebook via  comments, in a Google doc, or in a group message on Slack regarding what you accomplished and what you need to do.
-- You can communicate with your group on Slack
-- Check out the [how-tos](/how-tos.md) if you're stuck on something! A list of functions, methods, packages can be found [here](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
+- At the end of each meeting the latest .ipynb should be uploaded to a Google Drive folder shared with your project group. Keep track of your progress in the notebook via comments, in a Google doc, or in a group message on Slack regarding what you accomplished and what you need to do.
+- You can communicate with your group & facilitator on Slack!
 
 ## Data Analysis Step by Step
 
 ### Get organized!
-- One partner should make a Google Drive folder and share it with group mentor and partner
+- One partner should make a Google Drive folder and share it with group mentor and partner(s)
 - Start familiarizing yourself with your data. What are the data types in each column of the data set (e.g. float, string)?
 
 ### Hypothesis generation
@@ -20,9 +19,8 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 - Start cleaning data programatically. Add commands to your .ipynb.
 - You should be using pandas, check out [documentation](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
 - To help with data frame manipulation in pandas check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb)
-- You should also be using numpy, check out these [exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) for more practice
 - What variables do you need? What outliers should you remove? What variable has too much missing data to be reliable?
-- Remember our example project [Jupyter Notebook](20171202-gwc_exampleProject_movieLikes.ipynb)
+- Remember our example project [Jupyter Notebook](examples/example-project_movie-likes.ipynb)
 - A list of all the functions/methods/packages you've learned can be found [here](https://docs.google.com/document/d/1kRYLVXATEQqqjyLVpLc1LIXsaxPoVe0vlP6qOxNvjR8/edit?usp=sharing)
   
 ### Data visualization
@@ -30,8 +28,7 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Projet.
 
 ### Science communication!	
 - Make presentation including Background, Methods, Hypothesis, Results
-- [Template Presentation](GWC_presentation_template.pptx)
-- [Template Presentation via Google Slides](https://docs.google.com/presentation/d/18edFFZwETAB0TBxWg5-FhOL_oaJyFv0c-HON1H1jRgk/edit?usp=sharing)
-- Review the [example presentation](project_example.pdf) by Rucheng Diao 
+- [Template Presentation](https://docs.google.com/presentation/d/1bZFrjXwcXiRTNrnNOIGXKxTKWhcI2t-6jwqeCHh9_K8/edit#slide=id.p1)
+- Review the [example presentation](examples/project_example.pdf) by Rucheng Diao 
 - Practice your presentation
 
