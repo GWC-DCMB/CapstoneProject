@@ -82,6 +82,8 @@ If you pick a dataset that's not in our GitHub repo yet, ask a facilitator to ad
   - https://www.kaggle.com/claudiodavi/superhero-set
 - [Thanksgiving foods from 2015](thanksgiving_foods) [SE]
 - [US weather](US_weather) [SE]
+- [Vehicle Collisions](vehicle_collisions)
+    - Car accidents and other vehicle collisions reported by the NHTSA.
 - [World Bank indicators](world_bank_indicators)
     - Information about economics, education, climate change, gender equality, health, and land use over time across the globe. Browse different indicators [here]() and see the excel sheet `WorldBankIndicator_ForestedLandArea.xlsx` for example.
 - World Health Organization US Mortality Rates by County (1980-2014)
