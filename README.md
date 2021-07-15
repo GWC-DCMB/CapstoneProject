@@ -8,6 +8,17 @@ Step by step goals for completing the Girls Who Code at UM DCMB Capstone Project
 
 ### Get organized!
 - One partner should make a Google Drive folder and share it with group mentor and partner(s)
+- Make a new Jupyter Notebook (from an existing notebook, File > New notebook) and move it into the new Drive folder
+
+### Read in the data
+- The code below can be used to read in one of the [datasets](https://github.com/GWC-DCMB/CapstoneProject/tree/master/datasets) already on GitHub:
+```
+import pandas as pd
+url = "https://raw.githubusercontent.com/GWC-DCMB/CapstoneProject/master/datasets/"
+filepath = "AP_exams/ap_exams_MI_2018.csv"
+df = pd.read_csv(url + filepath)
+df.head()
+```
 - Start familiarizing yourself with your data. What are the data types in each column of the data set (e.g. float, string)?
 
 ### Hypothesis generation
