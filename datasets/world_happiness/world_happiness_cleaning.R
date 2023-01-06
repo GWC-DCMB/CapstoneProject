@@ -1,5 +1,6 @@
 library(tidyverse)
-setwd('~/Dropbox (University of Michigan)/Code/GirlsWhoCode/CapstoneProject/datasets/world_happiness/')
+current_path = rstudioapi::getActiveDocumentContext()$path 
+setwd(dirname(current_path))
 
 # ==========
 # load data
